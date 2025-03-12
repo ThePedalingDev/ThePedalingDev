@@ -1,6 +1,5 @@
 # **Markus Fourie**  
-**`Cycling Developer | Full-Stack Engineer | Mobile & Cloud Enthusiast`**  
-🎓 **BCAD0701 | Application Development Student**  
+**`Full-stack Developer | Application Development Student | Mobile & Cloud Enthusiast | Cyclist  `**  
 
 <p align="left">
   <img src="https://cdn.dribbble.com/userupload/23929744/file/original-6b301e8d07f7eb05416e79a9b8d5a39e.gif" width="200" />
