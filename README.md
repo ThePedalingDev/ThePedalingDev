@@ -62,7 +62,7 @@ I'm a **full-stack developer** and **MTB/XCM rider**, building my version of the
 
 ## 📊 **GitHub Stats**  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ThePedalingDev&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePedalingDev&theme=gruvbox" alt="GitHub Streak Stats" height="150px"/>
 </p>
