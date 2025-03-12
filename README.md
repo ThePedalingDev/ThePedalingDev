@@ -1,4 +1,4 @@
-#**Markus Fourie**  
+# **Markus Fourie**  
 **`Cycling Developer | Full-Stack Engineer | Mobile & Cloud Enthusiast`**  
 🎓 **BCAD0701 | Application Development Student**  
 
