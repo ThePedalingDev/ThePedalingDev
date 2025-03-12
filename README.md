@@ -1,8 +1,10 @@
 # 🚵‍♂️ **Markus Fourie**  
-
 **`Cycling Developer | Full-Stack Engineer | Mobile & Cloud Enthusiast`**  
-
 🎓 **BCAD0701 | Application Development Student**  
+
+<p align="right">
+  <img src="https://media.giphy.com/media/l0MYKDrJtJ38I4NHa/giphy.gif" width="200" />
+</p>
 
 I'm a **full-stack developer** and **MTB/XCM rider**, building my version of the digital world—one project and one ride at a time.  
 
@@ -11,32 +13,32 @@ I'm a **full-stack developer** and **MTB/XCM rider**, building my version of the
 
 ---
 
+## 🛠 **Tech Stack**  
 
 ### **🌐 Web Development**  
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-
----
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>  
 
 ### **📱 Mobile Development**  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
+<p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>  
 
 ### **🗄️ Databases & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>  
 
 ---
 
@@ -57,14 +59,6 @@ I'm a **full-stack developer** and **MTB/XCM rider**, building my version of the
 
 ---
 
-## 👀 **Visitor Counter**  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThePedalingDev&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Visitor Counter" />
-</p>
-
----
-
 ## 📫 **Let's Connect**  
 
 <p align="left">
@@ -75,14 +69,6 @@ I'm a **full-stack developer** and **MTB/XCM rider**, building my version of the
     <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/ThePedalingDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>  
-
----
-
-## 🚵‍♂️ **Ride & Code**  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYKDrJtJ38I4NHa/giphy.gif" width="600" height="300" />
-</p>
 
 ---
 
