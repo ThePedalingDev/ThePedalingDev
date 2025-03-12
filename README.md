@@ -69,21 +69,9 @@ I'm a **full-stack developer** and **MTB/XCM rider**, building my version of the
 
 ---
 
-## 📫 **Let's Connect**  
-
-<p align="left">
-  <a href="https://github.com/ThePedalingDev?tab=followers">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/ThePedalingDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>  
-  <a href="https://github.com/ThePedalingDev?tab=repositories&sort=stargazers">
-    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/ThePedalingDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>  
-
----
-
 ## **💡 Cycling Quote**  
 
 > *"It never gets easier, you just go faster."* – Greg LeMond  
 
 ---
+
