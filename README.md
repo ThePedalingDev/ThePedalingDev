@@ -49,17 +49,6 @@ I'm a **full-stack developer** and **MTB/XCM rider**, building my version of the
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>  
 
-
----
-
-## 📌 **Current Projects**  
-🔹 **[PlanMe](#)** – AI-powered planning & information-gathering web app  
-🔹 **[Advanced Cycling Analytics](#)** – Tracking performance & power data  
-
-🚴‍♂️ Off-screen, I’m either **shredding singletrack trails** or **analyzing FTP & VO2 max data.**  
-
----
-
 ## 📊 **GitHub Stats**  
 
 <p align="left">
