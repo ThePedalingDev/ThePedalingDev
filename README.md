@@ -1,6 +1,6 @@
-<div align="center">
-
 # **Markus Fourie**
+
+<div align="center">
 
 **Full-Stack Developer | BSc Computer Science Student | Cycling Enthusiast**
 
@@ -9,26 +9,24 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markusfourie@icloud.com)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/7756913)
 
-<img src="https://cdn.dribbble.com/userupload/23929744/file/original-6b301e8d07f7eb05416e79a9b8d5a39e.gif" width="300" alt="Developer Animation"/>
-
----
+<img src="https://cdn.dribbble.com/userupload/23929744/file/original-6b301e8d07f7eb05416e79a9b8d5a39e.gif" width="250" alt="Developer Animation"/>
 
 </div>
+
+---
 
 ## **About Me**
 
 I'm a **passionate full-stack developer** and **BSc Computer Science student** specializing in Application Development. I build computer-based solutions that make a real impact, combining clean design with solid backend logic.
 
-- 🎯 **Goal:** Growing into a **Solutions Architect** designing systems that scale globally
-- 🚀 **Passionate about:** Scalable applications, enterprise solutions, and modern web development
-- 🔬 **Always exploring:** Cutting-edge tech while optimizing cycling performance and coding efficiency
-- 🎓 **Education:** BSc Computer and Information Science *(Expected Cum Laude, Dec 2025)*
+-  **Goal:** Growing into a **Solutions Architect** designing systems that scale globally
+-  **Passionate about:** Scalable applications, enterprise solutions, and modern web development  
+-  **Always exploring:** Cutting-edge tech while optimizing cycling performance and coding efficiency
+-  **Education:** BSc Computer and Information Science *(Expected Cum Laude, Dec 2025)*
 
 ---
 
 ## **Tech Stack**
-
-<div align="center">
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,33 +58,26 @@ I'm a **passionate full-stack developer** and **BSc Computer Science student** s
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
 ---
 
 ## **Featured Projects**
 
-<table>
-<tr>
-<td width="50%">
-
-### **🏢 Katanga Contracting Services - RMS**
-*Enterprise-level asset management platform*
+### ** Katanga Contracting Services - RMS**
+*Enterprise-level asset management and operations platform*
 
 **Tech Stack:** ASP.NET MVC, SQL Server, EF Core, Tailwind CSS
 
 **Key Features:**
 - Multi-role access control
-- Admin dashboards
+- Admin dashboards  
 - Data validation logic
 
 **Impact:** Improved asset tracking efficiency and data accuracy
 
-</td>
-<td width="50%">
+---
 
-### **🚨 Afrisist Alarm Monitoring**
-*Real-time vehicle alarm management system*
+### ** Afrisist Alarm Monitoring**
+*Real-time web application for vehicle alarm management*
 
 **Tech Stack:** React, Node.js, Supabase, WebSocket, DaisyUI
 
@@ -95,15 +86,12 @@ I'm a **passionate full-stack developer** and **BSc Computer Science student** s
 - Automated notifications
 - Operator dashboard
 
-**Impact:** Enhanced reliability with webhook-driven automation
+**Impact:** Enhanced reliability and speed with webhook-driven automation
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### **❤️ Eridge RDA Non-Profit Charity**
-*Full-stack solution for UK-based charity*
+### ** Eridge RDA Non-Profit Charity**
+*Full-stack web solution for UK-based charity*
 
 **Tech Stack:** React, Vite, Node.js, PostgreSQL, Supabase
 
@@ -112,12 +100,11 @@ I'm a **passionate full-stack developer** and **BSc Computer Science student** s
 - Volunteer management
 - Dynamic listings
 
-**[Live Demo](https://www.eridgerda.org.uk/)** | **Impact:** Streamlined charity operations
+**Live:** [eridgerda.org.uk](https://www.eridgerda.org.uk/)
 
-</td>
-<td width="50%">
+---
 
-### **📊 GitHub Statistics**
+## **GitHub Statistics**
 
 <div align="center">
 
@@ -127,42 +114,23 @@ I'm a **passionate full-stack developer** and **BSc Computer Science student** s
 
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## **Education & Achievements**
 
-<div align="center">
-
-| **Qualification** | **Institution** | **Status** |
-|------------------|-----------------|------------|
-| **BSc Computer and Information Science** | Varsity College Pretoria | *Expected Cum Laude, Dec 2025* |
-| **Golden Key International Honour Society** | Golden Key International | *Member since 2025* |
-
-**Academic Highlights:**
-- ✅ **19 of 20 completed modules** with distinctions
-- 📚 **3 modules remaining** in final semester
-- 🏆 **Top 15%** academic performance recognition
-
-</div>
+- **BSc Computer and Information Science** - Varsity College Pretoria *(Expected Cum Laude, Dec 2025)*
+- **Golden Key International Honour Society** Member *(2025)*
+- **19 of 20 completed modules** with distinctions
+- **3 modules remaining** in final semester
 
 ---
 
 ## **Beyond Code**
 
-<div align="center">
-
-| **Interest** | **Description** |
-|-------------|-----------------|
-| 🚴 **Cycling** | Cross-country and road cycling enthusiast |
-| 💪 **Fitness** | Strength training advocate |
-| 🔬 **Learning** | Passionate self-learner experimenting with new technologies |
-| 🏠 **Home Lab** | Explorer staying ahead of tech trends |
-
-</div>
+- **Cross-country and road cycling enthusiast**
+- **Strength training advocate**  
+- **Passionate self-learner** experimenting with new technologies
+- **Home lab explorer** staying ahead of tech trends
 
 ---
 
@@ -183,6 +151,6 @@ I'm a **passionate full-stack developer** and **BSc Computer Science student** s
 
 ---
 
-**Building the future, one line at a time** 🚀
+**Building the future, one line at a time** 
 
 </div>
