@@ -104,18 +104,6 @@ I'm a **passionate full-stack developer** and **BSc Computer Science student** s
 
 ---
 
-## **GitHub Statistics**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePedalingDev&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePedalingDev&layout=compact&theme=gruvbox&hide_border=true)
-
-</div>
-
----
-
 ## **Education & Achievements**
 
 - **BSc Computer and Information Science** - Varsity College Pretoria *(Expected Cum Laude, Dec 2025)*
