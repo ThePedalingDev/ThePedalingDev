@@ -1,144 +1,42 @@
-# **Markus Fourie**
+# Markus Fourie
 
-<div align="center">
+Full-stack developer in Pretoria. I build operational software for Rimitso Management Services and Katanga Contracting Services.
 
-**Full-Stack Developer | BSc Computer Science Student | Cycling Enthusiast**
+[markusfourie.dev](https://markusfourie.dev)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://markusfourie.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markus-fourie/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markusfourie@icloud.com)
-[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/7756913)
+## Now
 
-<img src="https://cdn.dribbble.com/userupload/23929744/file/original-6b301e8d07f7eb05416e79a9b8d5a39e.gif" width="250" alt="Developer Animation"/>
+Full time with Rimitso Management Services and Katanga Contracting Services. The degree is finished: BSc Computer and Information Sciences, Varsity College (now Emeris), Pretoria, final year 2025. Top Achiever, 2025. [Golden Key](https://golden-key-international-honou.verified.cv/en/verify/20892159851455) Top Performer, 23 April 2025.
 
-</div>
+## Work
 
----
+**[Katanga RMS](https://rms.rimitso.com/)**
+Operations system for Katanga Contracting Services, hosted on Azure. Sites, assets, teams, and shift transactions, reviewed through approval before they reach reports. React, ASP.NET Core, Entity Framework, Postgres.
 
-## **About Me**
+**Afrisist**
+Alarm monitoring dashboard for vehicle fleets, hosted on Azure. Operators watch incoming alarms, assign them, and get notified as the events arrive. Built while I was there. I do not work there full time.
 
-I'm a **passionate full-stack developer** and **BSc Computer Science student** specializing in Application Development. I build computer-based solutions that make a real impact, combining clean design with solid backend logic.
+**[Eridge RDA](https://www.eridgerda.org.uk/)**
+Site and CMS for the Eridge group of Riding for the Disabled. Programmes, a photo gallery, volunteer applications, and a protected admin. React, Vite, Supabase.
 
--  **Goal:** Growing into a **Solutions Architect** designing systems that scale globally
--  **Passionate about:** Scalable applications, enterprise solutions, and modern web development  
--  **Always exploring:** Cutting-edge tech while optimizing cycling performance and coding efficiency
--  **Education:** BSc Computer and Information Science *(Expected Cum Laude, Dec 2025)*
+**[Skillance](https://skillance.co.za/)**
+Verified freelance marketplace for South Africa, built with [Kyle Nel](https://www.linkedin.com/in/kyle-nel-026742193/). Discover a professional, review the profile, and book with payment held until the work is approved. Coming soon on iOS and Android.
 
----
+## Stack
 
-## **Tech Stack**
+Web first: HTML, CSS, and JavaScript together, then TypeScript, React, Tailwind, Node.js, SQL, and PostgreSQL, then C#, ASP.NET Core, and Entity Framework.
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+Cloud and network after that: Linux, Docker, Nginx, GitHub Actions, Azure, and Cloudflare tunnels.
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+The home lab is an HP Victus 14. It hosts Plex, and local models on Ollama, including Gemma and Qwen.
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## On the bike
 
-### **Databases & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+In 2024 I rode the [Trans Baviaans](https://transbaviaans.co.za/), the 24-hour mountain bike marathon. In 2026 I rode the full Ford Trailseeker series, including #6 Wellington at Bosman Family Vineyards on 12 September.
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Contact
 
----
-
-## **Featured Projects**
-
-### ** Katanga Contracting Services - RMS**
-*Enterprise-level asset management and operations platform*
-
-**Tech Stack:** ASP.NET MVC, SQL Server, EF Core, Tailwind CSS
-
-**Key Features:**
-- Multi-role access control
-- Admin dashboards  
-- Data validation logic
-
-**Impact:** Improved asset tracking efficiency and data accuracy
-
----
-
-### ** Afrisist Alarm Monitoring**
-*Real-time web application for vehicle alarm management*
-
-**Tech Stack:** React, Node.js, Supabase, WebSocket, DaisyUI
-
-**Key Features:**
-- Live updates
-- Automated notifications
-- Operator dashboard
-
-**Impact:** Enhanced reliability and speed with webhook-driven automation
-
----
-
-### ** Eridge RDA Non-Profit Charity**
-*Full-stack web solution for UK-based charity*
-
-**Tech Stack:** React, Vite, Node.js, PostgreSQL, Supabase
-
-**Key Features:**
-- CMS functionality
-- Volunteer management
-- Dynamic listings
-
-**Live:** [eridgerda.org.uk](https://www.eridgerda.org.uk/)
-
----
-
-## **Education & Achievements**
-
-- **BSc Computer and Information Science** - Varsity College Pretoria *(Expected Cum Laude, Dec 2025)*
-- **Golden Key International Honour Society** Member *(2025)*
-- **19 of 20 completed modules** with distinctions
-- **3 modules remaining** in final semester
-
----
-
-## **Beyond Code**
-
-- **Cross-country and road cycling enthusiast**
-- **Strength training advocate**  
-- **Passionate self-learner** experimenting with new technologies
-- **Home lab explorer** staying ahead of tech trends
-
----
-
-<div align="center">
-
-## **Cycling Quote**
-
-> *"It never gets easier, you just go faster."* – Greg LeMond
-
----
-
-### **Let's Connect**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePedalingDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markus-fourie/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markusfourie@icloud.com)
-[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/7756913)
-
----
-
-**Building the future, one line at a time** 
-
-</div>
+- [markusfourie.dev](https://markusfourie.dev)
+- [markusfourie@icloud.com](mailto:markusfourie@icloud.com)
+- [LinkedIn](https://www.linkedin.com/in/markus-fourie/)
+- [Strava](https://www.strava.com/athletes/7756913)
