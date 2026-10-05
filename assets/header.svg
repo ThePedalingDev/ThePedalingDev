@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-labelledby="title desc">
+  <title id="title">Markus Fourie</title>
+  <desc id="desc">Full-stack developer in Pretoria</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.18"/>
+      <stop offset="55%" stop-color="#1d4ed8" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #f4f6fb; }
+      .panel { fill: #ffffff; stroke: #d8e0ef; }
+      .ink { fill: #0f172a; }
+      .muted { fill: #475569; }
+      .rule { stroke: #cbd5e1; }
+      .dot { fill: #94a3b8; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0b1220; }
+        .panel { fill: #111827; stroke: #1f2a44; }
+        .ink { fill: #f8fafc; }
+        .muted { fill: #94a3b8; }
+        .rule { stroke: #334155; }
+        .dot { fill: #64748b; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="200" rx="16"/>
+  <rect class="panel" x="12" y="12" width="876" height="176" rx="12"/>
+  <rect x="12" y="12" width="8" height="176" rx="4" fill="#1d4ed8"/>
+  <rect x="20" y="12" width="320" height="176" fill="url(#fade)"/>
+
+  <!-- Monogram -->
+  <g transform="translate(48, 52)">
+    <rect width="64" height="64" rx="14" fill="#1d4ed8"/>
+    <text x="32" y="42" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#ffffff">MF</text>
+  </g>
+
+  <text class="ink" x="136" y="78" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="36" font-weight="700" letter-spacing="-0.5">Markus Fourie</text>
+  <text class="muted" x="136" y="112" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">Full-stack developer in Pretoria</text>
+
+  <line class="rule" x1="136" y1="132" x2="420" y2="132" stroke-width="1"/>
+
+  <circle cx="144" cy="156" r="3.5" fill="#1d4ed8"/>
+  <text class="muted" x="156" y="161" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13">Operational software - markusfourie.dev</text>
+
+  <!-- Decorative grid dots -->
+  <g opacity="0.55">
+    <circle class="dot" cx="780" cy="48" r="2.5"/>
+    <circle class="dot" cx="804" cy="48" r="2.5"/>
+    <circle class="dot" cx="828" cy="48" r="2.5"/>
+    <circle class="dot" cx="780" cy="72" r="2.5"/>
+    <circle class="dot" cx="804" cy="72" r="2.5"/>
+    <circle class="dot" cx="828" cy="72" r="2.5"/>
+    <circle class="dot" cx="780" cy="96" r="2.5"/>
+    <circle class="dot" cx="804" cy="96" r="2.5"/>
+    <circle class="dot" cx="828" cy="96" r="2.5"/>
+    <circle cx="852" cy="72" r="2.5" fill="#1d4ed8"/>
+  </g>
+</svg>
