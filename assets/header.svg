@@ -1,61 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-labelledby="title desc">
   <title id="title">Markus Fourie</title>
-  <desc id="desc">Full-stack developer in Pretoria</desc>
+  <desc id="desc">Full-stack developer in Pretoria. Open to new work and new experiences.</desc>
   <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.18"/>
-      <stop offset="55%" stop-color="#1d4ed8" stop-opacity="0.04"/>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.16"/>
+      <stop offset="45%" stop-color="#1d4ed8" stop-opacity="0.04"/>
       <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
     <style>
-      .bg { fill: #f4f6fb; }
-      .panel { fill: #ffffff; stroke: #d8e0ef; }
+      .bg { fill: #f1f5f9; }
+      .panel { fill: #ffffff; stroke: #dbe3f0; }
       .ink { fill: #0f172a; }
       .muted { fill: #475569; }
-      .rule { stroke: #cbd5e1; }
-      .dot { fill: #94a3b8; }
+      .soft { fill: #94a3b8; }
+      .chip { fill: #eff6ff; stroke: #bfdbfe; }
+      .chipText { fill: #1d4ed8; }
+      .win { fill: #f8fafc; stroke: #e2e8f0; }
+      .line { stroke: #cbd5e1; }
+      .code { fill: #64748b; }
       @media (prefers-color-scheme: dark) {
         .bg { fill: #0b1220; }
-        .panel { fill: #111827; stroke: #1f2a44; }
+        .panel { fill: #0f172a; stroke: #1e293b; }
         .ink { fill: #f8fafc; }
         .muted { fill: #94a3b8; }
-        .rule { stroke: #334155; }
-        .dot { fill: #64748b; }
+        .soft { fill: #64748b; }
+        .chip { fill: #172554; stroke: #1d4ed8; }
+        .chipText { fill: #93c5fd; }
+        .win { fill: #111827; stroke: #1f2937; }
+        .line { stroke: #334155; }
+        .code { fill: #94a3b8; }
       }
     </style>
   </defs>
 
-  <rect class="bg" width="900" height="200" rx="16"/>
-  <rect class="panel" x="12" y="12" width="876" height="176" rx="12"/>
-  <rect x="12" y="12" width="8" height="176" rx="4" fill="#1d4ed8"/>
-  <rect x="20" y="12" width="320" height="176" fill="url(#fade)"/>
+  <rect class="bg" width="1100" height="240" rx="20"/>
+  <rect class="panel" x="10" y="10" width="1080" height="220" rx="14"/>
+  <rect x="10" y="10" width="1080" height="6" rx="3" fill="url(#bar)"/>
+  <rect x="10" y="16" width="420" height="214" fill="url(#wash)"/>
 
-  <!-- Monogram -->
-  <g transform="translate(48, 52)">
-    <rect width="64" height="64" rx="14" fill="#1d4ed8"/>
-    <text x="32" y="42" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#ffffff">MF</text>
-  </g>
+  <!-- Eyebrow -->
+  <text x="48" y="68" fill="#1d4ed8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">FULL-STACK DEVELOPER</text>
 
-  <text class="ink" x="136" y="78" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="36" font-weight="700" letter-spacing="-0.5">Markus Fourie</text>
-  <text class="muted" x="136" y="112" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">Full-stack developer in Pretoria</text>
+  <!-- Name -->
+  <text class="ink" x="48" y="118" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.2">Markus Fourie</text>
 
-  <line class="rule" x1="136" y1="132" x2="420" y2="132" stroke-width="1"/>
+  <!-- Static subtitle -->
+  <text class="muted" x="48" y="152" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18">Pretoria - Operational software for teams that ship work</text>
 
-  <circle cx="144" cy="156" r="3.5" fill="#1d4ed8"/>
-  <text class="muted" x="156" y="161" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13">Operational software - markusfourie.dev</text>
+  <!-- Availability chip -->
+  <rect class="chip" x="48" y="176" width="168" height="30" rx="15"/>
+  <circle cx="68" cy="191" r="4" fill="#22c55e"/>
+  <text class="chipText" x="82" y="196" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" font-weight="600">Open to new work</text>
 
-  <!-- Decorative grid dots -->
-  <g opacity="0.55">
-    <circle class="dot" cx="780" cy="48" r="2.5"/>
-    <circle class="dot" cx="804" cy="48" r="2.5"/>
-    <circle class="dot" cx="828" cy="48" r="2.5"/>
-    <circle class="dot" cx="780" cy="72" r="2.5"/>
-    <circle class="dot" cx="804" cy="72" r="2.5"/>
-    <circle class="dot" cx="828" cy="72" r="2.5"/>
-    <circle class="dot" cx="780" cy="96" r="2.5"/>
-    <circle class="dot" cx="804" cy="96" r="2.5"/>
-    <circle class="dot" cx="828" cy="96" r="2.5"/>
-    <circle cx="852" cy="72" r="2.5" fill="#1d4ed8"/>
+  <text class="soft" x="232" y="196" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13">markusfourie.dev</text>
+
+  <!-- Abstract window accent (developer motif, not cycling) -->
+  <g transform="translate(760, 54)">
+    <rect class="win" width="280" height="150" rx="12"/>
+    <circle cx="22" cy="20" r="4" fill="#1d4ed8" opacity="0.85"/>
+    <circle cx="38" cy="20" r="4" class="soft"/>
+    <circle cx="54" cy="20" r="4" class="soft"/>
+    <line class="line" x1="0" y1="36" x2="280" y2="36" stroke-width="1"/>
+
+    <text class="code" x="20" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">const focus = "ops";</text>
+    <text class="code" x="20" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">stack.push("react");</text>
+    <text fill="#1d4ed8" x="20" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">return ship();</text>
+    <rect x="20" y="132" width="96" height="6" rx="3" fill="#1d4ed8" opacity="0.35"/>
+    <rect x="124" y="132" width="48" height="6" rx="3" fill="#1d4ed8" opacity="0.18"/>
   </g>
 </svg>
