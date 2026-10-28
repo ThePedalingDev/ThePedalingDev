@@ -32,15 +32,15 @@
     <text x="92" y="228" fill="#121513" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="700">Open to new work</text>
     <text x="262" y="228" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">markusfourie.dev</text>
 
-    <!-- Deploy-log panel from the site hero -->
+    <!-- Terminal panel: recent commits -->
     <g transform="translate(676, 52)">
       <rect width="372" height="150" rx="6" fill="#1c201d" stroke="#eef0ea" stroke-opacity="0.12"/>
-      <text x="20" y="30" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">markus@fedora: ~</text>
-      <text x="334" y="30" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">rms</text>
-      <text x="20" y="62" fill="#eef0ea" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">$ ./deploy rms --env prod</text>
-      <text x="20" y="86" fill="#b4b9b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">→ running migrations (017_audit_trail)</text>
-      <text x="20" y="110" fill="#b4b9b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">→ health check: api, worker, gateway</text>
-      <text x="20" y="134" fill="#eef0ea" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">✓ deploy complete · 14.2s · 0 errors</text>
+      <text x="20" y="30" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">markus@fedora: ~/portfolio</text>
+      <text x="334" y="30" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">main</text>
+      <text x="20" y="62" fill="#eef0ea" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">$ git log --oneline -3</text>
+      <text x="20" y="86" fill="#b4b9b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"><tspan fill="#8a9086">ec47243</tspan> fix: share image shows Markus</text>
+      <text x="20" y="110" fill="#b4b9b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"><tspan fill="#8a9086">a14949d</tspan> feat: staggered work grid</text>
+      <text x="20" y="134" fill="#b4b9b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"><tspan fill="#8a9086">fc19d6d</tspan> style: three section edges</text>
     </g>
   </g>
 </svg>
