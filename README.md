@@ -152,6 +152,13 @@ I ride: mostly cross-country marathons and long endurance days. In 2024 I rode t
 
 Building something that has to work in the real world, or hiring someone who enjoys that kind of problem? Email me.
 
-- Site: [markusfourie.dev](https://markusfourie.dev)
-- Email: [fourie.markus@outlook.com](mailto:fourie.markus@outlook.com)
-- LinkedIn: [markus-fourie](https://www.linkedin.com/in/markus-fourie/)
+<table>
+  <tr>
+    <td><img src="./assets/v2/icons/website.svg" width="22" height="22" alt="Website" align="absmiddle" />&nbsp; <a href="https://markusfourie.dev">markusfourie.dev</a></td>
+    <td><img src="./assets/v2/icons/email.svg" width="22" height="22" alt="Email" align="absmiddle" />&nbsp; <a href="mailto:fourie.markus@outlook.com">fourie.markus@outlook.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/v2/icons/linkedin.svg" width="22" height="22" alt="LinkedIn" align="absmiddle" />&nbsp; <a href="https://www.linkedin.com/in/markus-fourie/">linkedin.com/in/markus-fourie</a></td>
+    <td><img src="./assets/v2/icons/github.svg" width="22" height="22" alt="GitHub" align="absmiddle" />&nbsp; <a href="https://github.com/ThePedalingDev">github.com/ThePedalingDev</a></td>
+  </tr>
+</table>
