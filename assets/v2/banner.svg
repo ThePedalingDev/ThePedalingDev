@@ -24,20 +24,15 @@
     <circle cx="930" cy="170" r="250" fill="none" stroke="#eef0ea" stroke-opacity="0.05"/>
     <circle cx="930" cy="170" r="190" fill="none" stroke="#eef0ea" stroke-opacity="0.05"/>
 
-    <!-- Eyebrow -->
-    <rect x="56" y="58" width="4" height="22" rx="2" fill="#eef0ea"/>
-    <text x="74" y="75" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" font-weight="600" letter-spacing="2.6">FULL-STACK DEVELOPER · PRETORIA</text>
-
     <!-- Name + headline -->
-    <text x="54" y="150" fill="#eef0ea" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="68" font-weight="700" letter-spacing="-2.2">Markus Fourie</text>
-    <text x="56" y="194" fill="#eef0ea" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="500" opacity="0.9">Software that holds up outside the office.</text>
-    <text x="56" y="228" fill="#8a9086" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">React · TypeScript · ASP.NET Core · PostgreSQL · Azure</text>
+    <text x="54" y="132" fill="#eef0ea" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="68" font-weight="700" letter-spacing="-2.2">Markus Fourie</text>
+    <text x="56" y="178" fill="#eef0ea" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="500" opacity="0.9">Software that holds up outside the office.</text>
+    <text x="56" y="212" fill="#8a9086" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">React · TypeScript · ASP.NET Core · PostgreSQL · Azure</text>
 
     <!-- Availability pill -->
-    <rect x="56" y="250" width="196" height="36" rx="18" fill="#eef0ea"/>
-    <circle cx="80" cy="268" r="4.5" fill="#121513"/>
-    <text x="94" y="273" fill="#121513" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="700">Open to new work</text>
-    <text x="272" y="273" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">markusfourie.dev</text>
+    <rect x="56" y="236" width="196" height="36" rx="18" fill="#eef0ea"/>
+    <circle cx="80" cy="254" r="4.5" fill="#121513"/>
+    <text x="94" y="259" fill="#121513" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="700">Open to new work</text>
 
     <!-- Portrait with an offset block behind it, like the site hero -->
     <rect x="838" y="60" width="224" height="262" fill="#1c201d" stroke="#eef0ea" stroke-opacity="0.12"/>
