@@ -5,8 +5,8 @@
   <defs>
     <clipPath id="card"><rect width="1100" height="300" rx="20"/></clipPath>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#f2b134" stop-opacity="0.14"/>
-      <stop offset="60%" stop-color="#f2b134" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#eef0ea" stop-opacity="0.07"/>
+      <stop offset="60%" stop-color="#eef0ea" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
@@ -16,10 +16,10 @@
 
     <!-- Paper S-curve along the bottom, like the section edges on the site -->
     <path d="M0 262 C 220 262 330 236 560 252 S 920 292 1100 246 V300 H0 Z" fill="#f3f4f0"/>
-    <path d="M0 262 C 220 262 330 236 560 252 S 920 292 1100 246" fill="none" stroke="#f2b134" stroke-width="2" opacity="0.9"/>
+    <path d="M0 262 C 220 262 330 236 560 252 S 920 292 1100 246" fill="none" stroke="#8a9086" stroke-width="2" opacity="0.8"/>
 
     <!-- Eyebrow -->
-    <rect x="56" y="56" width="5" height="22" rx="2.5" fill="#f2b134"/>
+    <rect x="56" y="56" width="5" height="22" rx="2.5" fill="#eef0ea"/>
     <text x="74" y="73" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" letter-spacing="2.4">FULL-STACK DEVELOPER · PRETORIA</text>
 
     <!-- Name + headline -->
@@ -27,7 +27,7 @@
     <text x="56" y="182" fill="#eef0ea" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="24" font-weight="500" opacity="0.88">Software that holds up outside the office.</text>
 
     <!-- Availability pill -->
-    <rect x="56" y="206" width="188" height="34" rx="17" fill="#f2b134"/>
+    <rect x="56" y="206" width="188" height="34" rx="17" fill="#eef0ea"/>
     <circle cx="78" cy="223" r="4.5" fill="#121513"/>
     <text x="92" y="228" fill="#121513" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="700">Open to new work</text>
     <text x="262" y="228" fill="#b4b9b0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">markusfourie.dev</text>
@@ -40,7 +40,7 @@
       <text x="20" y="62" fill="#eef0ea" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">$ ./deploy rms --env prod</text>
       <text x="20" y="86" fill="#b4b9b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">→ running migrations (017_audit_trail)</text>
       <text x="20" y="110" fill="#b4b9b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">→ health check: api, worker, gateway</text>
-      <text x="20" y="134" fill="#9fd8a5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">✓ deploy complete · 14.2s · 0 errors</text>
+      <text x="20" y="134" fill="#eef0ea" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">✓ deploy complete · 14.2s · 0 errors</text>
     </g>
   </g>
 </svg>

@@ -2,5 +2,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="36" viewBox="0 0 1100 36" role="img" aria-hidden="true">
   <!-- One S-curve, the same shape the site uses between sections -->
   <path d="M0 22 C 220 22 330 8 550 18 S 880 30 1100 12" fill="none" stroke="#8a9086" stroke-opacity="0.55" stroke-width="1.5"/>
-  <circle cx="550" cy="18" r="4" fill="#f2b134"/>
+  <circle cx="550" cy="18" r="4" fill="#8a9086"/>
 </svg>

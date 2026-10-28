@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://markusfourie.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=18&duration=3200&pause=1000&color=D98E1F&center=true&vCenter=true&width=720&height=36&lines=I+build+the+Resource+Management+System+Katanga's+site+teams+run+on;Open+to+new+work+and+new+experiences" alt="I build the Resource Management System Katanga's site teams run on. Open to new work and new experiences." />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=18&duration=3200&pause=1000&color=8A9086&center=true&vCenter=true&width=720&height=36&lines=I+build+the+Resource+Management+System+Katanga's+site+teams+run+on;Open+to+new+work+and+new+experiences" alt="I build the Resource Management System Katanga's site teams run on. Open to new work and new experiences." />
   </a>
 </p>
 
@@ -122,18 +122,18 @@ My day to day is React and TypeScript at the front, and ASP.NET Core or Node wit
 - **Learning now:** Three.js, Go
 
 <p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1c201d?style=flat-square&logo=typescript&logoColor=f2b134" />
-  <img alt="React" src="https://img.shields.io/badge/React-1c201d?style=flat-square&logo=react&logoColor=f2b134" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-1c201d?style=flat-square&logo=tailwindcss&logoColor=f2b134" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1c201d?style=flat-square&logo=nodedotjs&logoColor=f2b134" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-1c201d?style=flat-square&logo=csharp&logoColor=f2b134" />
-  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-1c201d?style=flat-square&logo=dotnet&logoColor=f2b134" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1c201d?style=flat-square&logo=postgresql&logoColor=f2b134" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1c201d?style=flat-square&logo=mongodb&logoColor=f2b134" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1c201d?style=flat-square&logo=flutter&logoColor=f2b134" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-1c201d?style=flat-square&logo=microsoftazure&logoColor=f2b134" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-1c201d?style=flat-square&logo=cloudflare&logoColor=f2b134" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-1c201d?style=flat-square&logo=docker&logoColor=f2b134" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1c201d?style=flat-square&logo=typescript&logoColor=eef0ea" />
+  <img alt="React" src="https://img.shields.io/badge/React-1c201d?style=flat-square&logo=react&logoColor=eef0ea" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-1c201d?style=flat-square&logo=tailwindcss&logoColor=eef0ea" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1c201d?style=flat-square&logo=nodedotjs&logoColor=eef0ea" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-1c201d?style=flat-square&logo=csharp&logoColor=eef0ea" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-1c201d?style=flat-square&logo=dotnet&logoColor=eef0ea" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1c201d?style=flat-square&logo=postgresql&logoColor=eef0ea" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1c201d?style=flat-square&logo=mongodb&logoColor=eef0ea" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1c201d?style=flat-square&logo=flutter&logoColor=eef0ea" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-1c201d?style=flat-square&logo=microsoftazure&logoColor=eef0ea" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-1c201d?style=flat-square&logo=cloudflare&logoColor=eef0ea" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1c201d?style=flat-square&logo=docker&logoColor=eef0ea" />
 </p>
 
 <p align="center">
