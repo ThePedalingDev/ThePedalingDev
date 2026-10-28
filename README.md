@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Markus Fourie, full-stack developer in Pretoria. Software that holds up outside the office." width="1000" />
+  <img src="./assets/v2/header.svg" alt="Markus Fourie, full-stack developer in Pretoria. Software that holds up outside the office." width="1000" />
 </p>
 
 <p align="center">
@@ -9,30 +9,30 @@
 </p>
 
 <p align="center">
-  <a href="https://markusfourie.dev" title="Website"><img src="./assets/icons/website.svg" width="28" height="28" alt="Website" /></a>
+  <a href="https://markusfourie.dev" title="Website"><img src="./assets/v2/icons/website.svg" width="28" height="28" alt="Website" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:fourie.markus@outlook.com" title="Email"><img src="./assets/icons/email.svg" width="28" height="28" alt="Email" /></a>
+  <a href="mailto:fourie.markus@outlook.com" title="Email"><img src="./assets/v2/icons/email.svg" width="28" height="28" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/markus-fourie/" title="LinkedIn"><img src="./assets/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/markus-fourie/" title="LinkedIn"><img src="./assets/v2/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ThePedalingDev" title="GitHub"><img src="./assets/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
+  <a href="https://github.com/ThePedalingDev" title="GitHub"><img src="./assets/v2/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="1000" />
+  <img src="./assets/v2/divider.svg" alt="" width="1000" />
 </p>
 
-## <img src="./assets/section.svg" alt="" width="18" height="18" /> Now
+## <img src="./assets/v2/section.svg" alt="" width="18" height="18" /> Now
 
 Full-stack software developer at Katanga Contracting Services (KCS) / Rimitso, 2025 to present. The Resource Management System is live in production, and I'm open to new work and new experiences.
 
 BSc Computer and Information Sciences, **Cum Laude**, Varsity College (now Emeris), Pretoria, completed December 2025. Varsity College Top Achiever 2025 and [Golden Key](https://golden-key-international-honou.verified.cv/en/verify/20892159851455) member.
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="1000" />
+  <img src="./assets/v2/divider.svg" alt="" width="1000" />
 </p>
 
-## <img src="./assets/section.svg" alt="" width="18" height="18" /> Things I've shipped
+## <img src="./assets/v2/section.svg" alt="" width="18" height="18" /> Things I've shipped
 
 <table>
   <tr>
@@ -108,10 +108,10 @@ BSc Computer and Information Sciences, **Cum Laude**, Varsity College (now Emeri
 </table>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="1000" />
+  <img src="./assets/v2/divider.svg" alt="" width="1000" />
 </p>
 
-## <img src="./assets/section.svg" alt="" width="18" height="18" /> What I work in
+## <img src="./assets/v2/section.svg" alt="" width="18" height="18" /> What I work in
 
 My day to day is React and TypeScript at the front, and ASP.NET Core or Node with Postgres behind it. Cloud came once I had something worth hosting, and mobile with Flutter, which I'm building on Skillance.
 
@@ -137,18 +137,18 @@ My day to day is React and TypeScript at the front, and ASP.NET Core or Node wit
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="1000" />
+  <img src="./assets/v2/divider.svg" alt="" width="1000" />
 </p>
 
-## <img src="./assets/section.svg" alt="" width="18" height="18" /> Off the clock
+## <img src="./assets/v2/section.svg" alt="" width="18" height="18" /> Off the clock
 
 I ride: mostly cross-country marathons and long endurance days. In 2024 I rode the [Trans Baviaans](https://transbaviaans.co.za/), the 24-hour mountain bike marathon, and this year I rode the full Ford Trailseeker series.
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="1000" />
+  <img src="./assets/v2/divider.svg" alt="" width="1000" />
 </p>
 
-## <img src="./assets/section.svg" alt="" width="18" height="18" /> Let's talk
+## <img src="./assets/v2/section.svg" alt="" width="18" height="18" /> Let's talk
 
 Building something that has to work in the real world, or hiring someone who enjoys that kind of problem? Email me.
 
