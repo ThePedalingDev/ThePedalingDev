@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/v2/header.svg" alt="Markus Fourie, full-stack developer in Pretoria. Software that holds up outside the office." width="1000" />
+  <img src="./assets/v2/banner.svg" alt="Markus Fourie, full-stack developer in Pretoria. Software that holds up outside the office." width="1000" />
 </p>
 
 <p align="center">
